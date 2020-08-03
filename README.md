@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="300" height="300">
+</p>
+<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -8,11 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<p align="right" display="inline">
-<img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="300" height="300">
-</p>
-<br>
 <br>
 <br>
 <p align="center">
