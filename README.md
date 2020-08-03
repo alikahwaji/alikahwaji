@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-## I'm a Husband, Father, Developer, and tutor!
+## I'm a Husband, Father, Developer, and IT tutor!
 - 🔭 I’m currently working on a postgrade project!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers AI researchers 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football
 
-<p align="right">
+<p align="right" display="inline" word-wrap= "break-word">
 <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="300" height="300">
 </p>
 <br>
