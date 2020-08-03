@@ -7,7 +7,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football
 
-<p align="left">
+<p align="right">
 <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="300" height="300">
 </p>
 <br>
