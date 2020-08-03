@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-                            ![Kahwaji's github stats](https://github-readme-stats.vercel.app/api?username=alikahwaji&show_icons=true&theme=nightowl)
+![Kahwaji's github stats](https://github-readme-stats.vercel.app/api?username=alikahwaji&show_icons=true&theme=nightowl)
 
 
