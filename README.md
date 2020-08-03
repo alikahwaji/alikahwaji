@@ -28,6 +28,15 @@ Here are some ideas to get you started:
 <br>
 
 ![Kahwaji's github stats](https://github-readme-stats.vercel.app/api?username=alikahwaji&show_icons=true&theme=nightowl)
-![Kahwaji's github stats](https://github-readme-stats.vercel.app/api?username=alikahwaji&show_icons=true)
+<br/>
+
+
+<a href="https://twitter.com/kahwaji17">
+  <img align="left" alt="Ali Kahwaji | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ali-kahwaji/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 
 
