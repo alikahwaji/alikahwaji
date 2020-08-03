@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Kahwaji's github stats](https://github-readme-stats.vercel.app/api?username=alikahwaji)](https://github.com/alikahwaji/github-readme-stats)
 ![Kahwaji's github stats](https://github-readme-stats.vercel.app/api?username=alikahwaji&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikahwaji)](https://github.com/anuraghazra/github-readme-stats)
