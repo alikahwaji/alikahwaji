@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-<p align = "center">
-![Kahwaji's github stats](https://github-readme-stats.vercel.app/api?username=alikahwaji&show_icons=true&theme=nightowl)
-</p>
+
+                            ![Kahwaji's github stats](https://github-readme-stats.vercel.app/api?username=alikahwaji&show_icons=true&theme=nightowl)
+
 
