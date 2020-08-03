@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-<img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="300" height="300">
+<img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="300" height="300" background="#011627">
 </p>
 
 <!--
