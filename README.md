@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![Kahwaji's github stats](https://github-readme-stats.vercel.app/api?username=alikahwaji&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikahwaji&layout=compact)](https://github.com/alikahwaji/github-readme-stats)
