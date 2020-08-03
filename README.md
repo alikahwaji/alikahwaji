@@ -1,13 +1,19 @@
-### Hi there 👋
 
-## I'm a Husband, Father, Developer, and IT tutor!
-- 🔭 I’m currently working on a postgrade project!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers AI researchers 
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play football
+<!--
+**alikahwaji/alikahwaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="right" display="inline" word-wrap= "break-word">
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<p align="left" display="inline" word-wrap="break-word">
 <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="300" height="300">
 </p>
 <br>
@@ -22,7 +28,14 @@
 
 ![Kahwaji's github stats](https://github-readme-stats.vercel.app/api?username=alikahwaji&show_icons=true&theme=nightowl)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://twitter.com/kahwaji17">
+  <img align="left" alt="Ali Kahwaji | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ali-kahwaji/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
 
