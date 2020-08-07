@@ -2,8 +2,6 @@
 <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" width="300" height="300">
 </p>
 <br>
-Here are some ideas to get you started:
-
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on an artificial intelligence with mixed realtiy project!
@@ -22,14 +20,3 @@ Here are some ideas to get you started:
 
 ![Kahwaji's github stats](https://github-readme-stats.vercel.app/api?username=alikahwaji&show_icons=true&theme=nightowl)
 <br/>
-
-
-<a href="https://twitter.com/kahwaji17">
-  <img align="left" alt="Ali Kahwaji | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ali-kahwaji/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-
-
