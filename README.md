@@ -4,7 +4,7 @@
 <br>
 
 ## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on an artificial intelligence with mixed realtiy project!
+- 🔭 I’m currently working on an artificial intelligence with mixed reality project!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other IT researchers
 - 🥅 2020 Goals: Submit more publications
