@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on an artificial intelligence with mixed realtiy project!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other IT researchers
-- 🥅 2021 Goals: Be a better version of myself 
+- 🥅 2022 Goals: Be a better version of myself 
 - ⚡ Fun fact: I love to play football and hiking
 <br>
 <br>
